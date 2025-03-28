@@ -4,7 +4,7 @@ public class Student {
 	String studentName;
 	int studentId;
 	long studentPhno;
-
+	
 	public void addStudentDetails(String stName, int stId, long stPhno) {
 		studentName = stName;
 		studentId = stId;
