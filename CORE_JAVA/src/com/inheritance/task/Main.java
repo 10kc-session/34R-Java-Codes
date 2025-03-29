@@ -1,6 +1,16 @@
 package com.inheritance.task;
 
 public class Main {
+	// Main method to test the classes
+	// and their relationships
+	// This is the entry point of the program
+	// It creates instances of Institute and Student classes
+	// and prints their details
+	// It demonstrates the use of getters to access private fields
+	// and shows how to set new values using setters
+	// It also shows how to create an Address object and associate it with a Student
+	// It is a simple demonstration of object-oriented programming concepts
+	// such as encapsulation, composition, and relationships between classes
 	public static void main(String[] args) {
 		Institute institute1 = new Institute("Java", 30000);
 		Institute institute2 = new Institute("Python", 30000);
