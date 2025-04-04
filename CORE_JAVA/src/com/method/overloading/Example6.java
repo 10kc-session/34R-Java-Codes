@@ -13,6 +13,5 @@ public class Example6 {
 	public void x(Example6 b) { System.out.println("Example6"); }
 	
 	public static void main(String[] args) {
-		new Example6().x(new Short((short)10));
 	}
 }
