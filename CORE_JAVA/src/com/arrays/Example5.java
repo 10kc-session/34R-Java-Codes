@@ -1,0 +1,18 @@
+package com.arrays;
+
+public class Example5 {
+
+	public static void main(String[] args) {
+		int[] arr = ArrayUtilities.getIntArray();
+//		for(datatype variableName : arrRef) {}
+		if (arr != null) {
+			for (int ele : arr) {
+				if (ele % 2 == 0) {
+					System.out.println(ele);
+				}
+			}
+		}else {
+			System.out.println("Zero size");
+		}
+	}
+}
