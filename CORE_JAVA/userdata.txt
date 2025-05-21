@@ -1,0 +1,6 @@
+john,john@123,0.0
+ramya,ramya,0.0
+ram,ram,0.0
+uttej,12345,0.0
+sai,sai@143,0.0
+suresh,bujji,0.0
